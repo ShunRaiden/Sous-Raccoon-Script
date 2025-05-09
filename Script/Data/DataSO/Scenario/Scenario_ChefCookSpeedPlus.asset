@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63aa3e0196ad4dd46bcd6ee417b6090f, type: 3}
+  m_Name: Scenario_ChefCookSpeedPlus
+  m_EditorClassIdentifier: 
+  nameScenario: ChefCookSpeedPlus
+  nameScenarioLocalized:
+    m_TableReference:
+      m_TableCollectionName: GUID:291f282669682af4cbb83aa3362aeaa5
+    m_TableEntryReference:
+      m_KeyId: 22153690095616
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  displayName: Chef on Fire!
+  discription: "Your chef is energized today, \nspeeding up cooking."
+  discriptionLocalized:
+    m_TableReference:
+      m_TableCollectionName: GUID:291f282669682af4cbb83aa3362aeaa5
+    m_TableEntryReference:
+      m_KeyId: 1469492502528
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  icon: {fileID: 21300000, guid: a6cbe374e1db786409a5c9b1d4fe47cd, type: 3}
+  statIcon: {fileID: 21300000, guid: 1091beed845b1274291583439a36dcfb, type: 3}
+  headIcon: {fileID: 21300000, guid: 01b45eaaf46f1e84f96009d8acc59d91, type: 3}
+  statValue: ++
+  intValue: 
+  floatValue:
+  - 0.9
+  type: 1
+  references:
+    version: 2
+    RefIds: []

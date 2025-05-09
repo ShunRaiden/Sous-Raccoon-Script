@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f21f7ec4fb0b6944bb9ba841ce3700cd, type: 3}
+  m_Name: NPCSet_State_Chaos
+  m_EditorClassIdentifier: 
+  customersSetPref:
+  - {fileID: 7786877793545059263, guid: 654bfcef6e6cc5340a01fedbce6c6d42, type: 3}
+  - {fileID: 6539311493865464600, guid: 1abc476a79869374392086e8fe4be05a, type: 3}
+  - {fileID: 8754918242329778812, guid: 2730733e7fe8eed4ea81dc4425e2c6a2, type: 3}
+  - {fileID: 5030250537262739413, guid: d8835c21c6c6cb345832fd0914da1b42, type: 3}
+  - {fileID: 4192492012004342999, guid: 3160c2e5231f4d14ba567e3c35839df9, type: 3}
+  - {fileID: 4780656998498490656, guid: 3a40bc290df9ce843961d7f8c60aafd5, type: 3}
+  monsterFarSetPref:
+  - {fileID: 5420877678185158301, guid: 4ef846a7c4a614e40af8073a58e18910, type: 3}
+  monsterCloseSetPref:
+  - {fileID: 5649316162018873453, guid: e6eaf77be7c2c79429627de868dd70ed, type: 3}
+  monsterInRestaurantSetPref:
+  - {fileID: 5545375278668109305, guid: 6d2749269d7d48c4583a6991d0207988, type: 3}
+  monsterSinisterSetPref:
+  - {fileID: 5738068950103068271, guid: c4bfac5b40ae8664390ded9800ee86de, type: 3}
+  monsterCoinDropper:
+  - {fileID: 6190476233754526721, guid: b49c16fac7d5fcc44b21e6e773841d44, type: 3}
+  hasMonsSpawnerEvent: 1

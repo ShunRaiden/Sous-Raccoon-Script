@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63aa3e0196ad4dd46bcd6ee417b6090f, type: 3}
+  m_Name: Scenario_ChefRateMinus
+  m_EditorClassIdentifier: 
+  nameScenario: ChefRateMinus
+  nameScenarioLocalized:
+    m_TableReference:
+      m_TableCollectionName: GUID:291f282669682af4cbb83aa3362aeaa5
+    m_TableEntryReference:
+      m_KeyId: 22385169539072
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  displayName: Chef Had a Nightmare
+  discription: "A nightmare troubled your chef last night, \nlowering their anger
+    tolerance."
+  discriptionLocalized:
+    m_TableReference:
+      m_TableCollectionName: GUID:291f282669682af4cbb83aa3362aeaa5
+    m_TableEntryReference:
+      m_KeyId: 1660404637696
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  icon: {fileID: 21300000, guid: 453020be4499ad64a8721f5d15cfd2ce, type: 3}
+  statIcon: {fileID: 21300000, guid: 4e12d7fae9b4fc6449154ea18bf6b64d, type: 3}
+  headIcon: {fileID: 21300000, guid: 8ae68d716745f474593ff7875c50bf1a, type: 3}
+  statValue: --
+  intValue: ffffffff
+  floatValue: []
+  type: 0
+  references:
+    version: 2
+    RefIds: []

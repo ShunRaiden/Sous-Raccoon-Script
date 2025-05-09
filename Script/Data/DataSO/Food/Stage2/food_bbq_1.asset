@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6201cb54df486784e9dfaab0fb146908, type: 3}
+  m_Name: food_bbq_1
+  m_EditorClassIdentifier: 
+  FoodName: food_bbq_1
+  FoodIcon: {fileID: 21300000, guid: 74e9fca24361d0e4eb8d838989edcb4e, type: 3}
+  FoodPref: {fileID: 8109878403839845375, guid: 00b8938983232574f91fcc58e676b14d,
+    type: 3}
+  CookingSteps:
+  - Ingredients: {fileID: 11400000, guid: 2c26868baf1669349b543fdd36bf5922, type: 2}
+    IngredientQuantity: 1
+    StationName: cut_station
+    CookingTime: 3.25
+  - Ingredients: {fileID: 11400000, guid: 159ed67a2319c364180dabdb6fc446ee, type: 2}
+    IngredientQuantity: 1
+    StationName: cut_station
+    CookingTime: 3.25
+  - Ingredients: {fileID: 11400000, guid: c2931e123fa297b4da02e5d52b93864a, type: 2}
+    IngredientQuantity: 1
+    StationName: grill_station
+    CookingTime: 3
+  TypeFood: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da5f9238c6f0ae849aa20cb0f3c389c1, type: 3}
+  m_Name: igd_shrimp_2
+  m_EditorClassIdentifier: 
+  IngredientName: ingredient_shrimp_2
+  IngredientIcon: {fileID: 21300000, guid: b182c2645f069c344a4c736031131f59, type: 3}
+  IngredientQuantity: 0
+  IngredientPref: {fileID: 663329712798869060, guid: 49f6eb2e2843cc648b02951d96b9897c,
+    type: 3}
+  IngredientColor: {r: 0.8773585, g: 0.46750346, b: 0.2027857, a: 1}

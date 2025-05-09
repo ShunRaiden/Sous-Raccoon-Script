@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 354bcb32ac83263439d14f07565fe094, type: 3}
+  m_Name: UseItem_AttackSpeed01
+  m_EditorClassIdentifier: 
+  UseItemName: AttackSpeed01
+  UseItemIcon: {fileID: 21300000, guid: 3f8e38755c2a173439ba3d0f473a3226, type: 3}
+  ingredientToUse: {fileID: 11400000, guid: eb6568ed07e8db346bc8c29f73ce0234, type: 2}
+  BuffStatfloat: 0.1
+  BuffStatint: 0
+  BuffTime: 30
+  generateTime: 10
+  buffType: 1

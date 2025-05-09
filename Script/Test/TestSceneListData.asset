@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bc137f3959f37547b643e1f0112cb77, type: 3}
+  m_Name: TestSceneListData
+  m_EditorClassIdentifier: 
+  stageLists:
+  - StageIndex: 1
+    LevelIndex: 1
+    sceneNameList:
+    - MTS1L1_1
+    - MTS1L1_2
+  - StageIndex: 1
+    LevelIndex: 2
+    sceneNameList:
+    - MTS1L2_1
+    - MTS1L2_2
+  - StageIndex: 2
+    LevelIndex: 1
+    sceneNameList:
+    - MTS2L1 1
+    - MTS2L1 2
+  - StageIndex: 2
+    LevelIndex: 2
+    sceneNameList:
+    - MTS2L2 1
+    - MTS2L2 2

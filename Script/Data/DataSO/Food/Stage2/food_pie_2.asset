@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6201cb54df486784e9dfaab0fb146908, type: 3}
+  m_Name: food_pie_2
+  m_EditorClassIdentifier: 
+  FoodName: food_pie_2
+  FoodIcon: {fileID: 21300000, guid: 595bc5054187ba3489dac09d29da2a13, type: 3}
+  FoodPref: {fileID: 8109878403839845375, guid: 1f74179bebe2a7b4786e5bc3d7ade5b9,
+    type: 3}
+  CookingSteps:
+  - Ingredients: {fileID: 11400000, guid: df0acdd3b1981e84cb61867770a57a3c, type: 2}
+    IngredientQuantity: 1
+    StationName: dough_station
+    CookingTime: 3
+  - Ingredients: {fileID: 11400000, guid: fa2c619bebdda2b459af00c9f211854b, type: 2}
+    IngredientQuantity: 1
+    StationName: cut_station
+    CookingTime: 3.25
+  - Ingredients: {fileID: 11400000, guid: 2c26868baf1669349b543fdd36bf5922, type: 2}
+    IngredientQuantity: 1
+    StationName: oven_station
+    CookingTime: 3
+  TypeFood: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42c38daa837b07d419128d7792113859, type: 3}
+  m_Name: SpriteResource
+  m_EditorClassIdentifier: 
+  mapIconSprite:
+  - mapIcon:
+    - {fileID: 21300000, guid: 427bc8b8819cd974b85f17c4042301d3, type: 3}
+    - {fileID: 21300000, guid: 5bd1b28cd9fa2c84eaca1afe2cb92912, type: 3}
+    - {fileID: 21300000, guid: 0e733adca298d334bb504bd71cb918e3, type: 3}
+    - {fileID: 21300000, guid: 9ade512bdc7437e41a4763ac7185483b, type: 3}
+  - mapIcon:
+    - {fileID: 21300000, guid: 29077491366c22f42a452baffaf90158, type: 3}
+    - {fileID: 21300000, guid: d3b69bad46b29f84fb63e70186bdfcfd, type: 3}
+    - {fileID: 21300000, guid: b49a5e9b1100f064fb7c312cf1324611, type: 3}
+    - {fileID: 21300000, guid: 6f7c49bff6548f34d8c17263aff520e8, type: 3}
+  stageIconSprite:
+  - {fileID: 21300000, guid: 427bc8b8819cd974b85f17c4042301d3, type: 3}
+  - {fileID: 21300000, guid: 29077491366c22f42a452baffaf90158, type: 3}
+  - {fileID: 21300000, guid: 29077491366c22f42a452baffaf90158, type: 3}

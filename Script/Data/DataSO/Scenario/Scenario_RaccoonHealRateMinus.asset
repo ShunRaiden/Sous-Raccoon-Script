@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63aa3e0196ad4dd46bcd6ee417b6090f, type: 3}
+  m_Name: Scenario_RaccoonHealRateMinus
+  m_EditorClassIdentifier: 
+  nameScenario: RaccoonHealRateMinus
+  nameScenarioLocalized:
+    m_TableReference:
+      m_TableCollectionName: GUID:291f282669682af4cbb83aa3362aeaa5
+    m_TableEntryReference:
+      m_KeyId: 24371382198272
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  displayName: "The Raccoon Isn\u2019t Feeling Well..."
+  discription: "Raccoon isn't feeling well today, \ndecreasing healing efficiency."
+  discriptionLocalized:
+    m_TableReference:
+      m_TableCollectionName: GUID:291f282669682af4cbb83aa3362aeaa5
+    m_TableEntryReference:
+      m_KeyId: 3382690717696
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  icon: {fileID: 21300000, guid: 2f8b12b5cc8058d4889195b7dfeb6b78, type: 3}
+  statIcon: {fileID: 21300000, guid: 6f9fd3c36df744a49a4e5e911bbeafd5, type: 3}
+  headIcon: {fileID: 21300000, guid: 8ae68d716745f474593ff7875c50bf1a, type: 3}
+  statValue: --
+  intValue: 
+  floatValue:
+  - -1
+  type: 2
+  references:
+    version: 2
+    RefIds: []

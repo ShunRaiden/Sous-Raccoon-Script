@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374344d86d44d7644b15504d2e43f4af, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  defaultPlayerSpeed:
+    name: Default
+    Level: 0
+    Speed: 3
+    CostUpgrade: 0
+  defaultPlayerRollCooldown:
+    name: Default
+    Level: 0
+    RollCooldown: 2
+    CostUpgrade: 0
+  defaultPlayerCombat:
+    name: Default
+    Level: 0
+    StunRate: 2
+    StunMaxTime: 3
+    Damage: 1
+    AttackSpeed: 0
+    CostUpgrade: 0
+  defaultPlayerHealing:
+    name: Default
+    Level: 0
+    HealRate: 4
+    HealRange: 1
+    CostUpgrade: 0
+  defaultPlayerSkin:
+    name: Default
+    displayName:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    skinPrice: 0
+    skinProfile: {fileID: 0}
+    playerPrefab: {fileID: 0}
+  defaultCustomersStat:
+    name: Default
+    Level: 0
+    MaxHealthTime: 125
+    MapUpgradePrefab: {fileID: 0}
+    CostUpgrade: 0
+  playerSpeed:
+  - name: 'Level : 0'
+    Level: 0
+    Speed: 0
+    CostUpgrade: 0
+  - name: 'Level : 1'
+    Level: 1
+    Speed: 0.5
+    CostUpgrade: 50
+  - name: 'Level : 2'
+    Level: 2
+    Speed: 1
+    CostUpgrade: 100
+  - name: 'Level : 3'
+    Level: 3
+    Speed: 1.5
+    CostUpgrade: 200
+  playerRollCooldown:
+  - name: 'Level : 0'
+    Level: 0
+    RollCooldown: 0
+    CostUpgrade: 0
+  - name: 'Level : 1'
+    Level: 1
+    RollCooldown: 0.25
+    CostUpgrade: 50
+  - name: 'Level : 2'
+    Level: 2
+    RollCooldown: 0.5
+    CostUpgrade: 100
+  - name: 'Level : 3'
+    Level: 3
+    RollCooldown: 1
+    CostUpgrade: 200
+  playerCombat:
+  - name: 'Level : 0'
+    Level: 0
+    StunRate: 0
+    StunMaxTime: 0
+    Damage: 0
+    AttackSpeed: 0
+    CostUpgrade: 0
+  - name: 'Level : 1'
+    Level: 1
+    StunRate: 0
+    StunMaxTime: 0.25
+    Damage: 0
+    AttackSpeed: 0.1
+    CostUpgrade: 50
+  - name: 'Level : 2'
+    Level: 2
+    StunRate: 1
+    StunMaxTime: 0.25
+    Damage: 0
+    AttackSpeed: 0.15
+    CostUpgrade: 100
+  - name: 'Level : 3'
+    Level: 3
+    StunRate: 1
+    StunMaxTime: 0.5
+    Damage: 1
+    AttackSpeed: 0.2
+    CostUpgrade: 200
+  - name: 'Level : 4'
+    Level: 4
+    StunRate: 2
+    StunMaxTime: 0.5
+    Damage: 1
+    AttackSpeed: 0.25
+    CostUpgrade: 350
+  playerHealing:
+  - name: 'Level : 0'
+    Level: 0
+    HealRate: 0
+    HealRange: 0
+    CostUpgrade: 0
+  - name: 'Level : 1'
+    Level: 1
+    HealRate: 0.5
+    HealRange: 0
+    CostUpgrade: 50
+  - name: 'Level : 2'
+    Level: 2
+    HealRate: 1
+    HealRange: 0.25
+    CostUpgrade: 100
+  - name: 'Level : 3'
+    Level: 3
+    HealRate: 1.5
+    HealRange: 0.25
+    CostUpgrade: 200
+  - name: 'Level : 4'
+    Level: 4
+    HealRate: 2
+    HealRange: 0.5
+    CostUpgrade: 350
+  playerSkin:
+  - name: Default_Skin
+    displayName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3cf81d34021ff0847b0419ad5b36d64f
+      m_TableEntryReference:
+        m_KeyId: 7785947136
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    skinPrice: 0
+    skinProfile: {fileID: 21300000, guid: 1c7dcbb49bc846542b461370093efc4e, type: 3}
+    playerPrefab: {fileID: 1602413524584437083, guid: 4c153fc39ebf50b439f1e274ed1e8da3,
+      type: 3}
+  - name: Skin_01
+    displayName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3cf81d34021ff0847b0419ad5b36d64f
+      m_TableEntryReference:
+        m_KeyId: 184471003136
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    skinPrice: 500
+    skinProfile: {fileID: 21300000, guid: c920fb56efba31049a6f95c7c96f697e, type: 3}
+    playerPrefab: {fileID: 1602413524584437083, guid: 50bf40d4776ebda409893889c260bf83,
+      type: 3}
+  - name: Skin_02
+    displayName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3cf81d34021ff0847b0419ad5b36d64f
+      m_TableEntryReference:
+        m_KeyId: 255216328704
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    skinPrice: 500
+    skinProfile: {fileID: 21300000, guid: d78f8c0f44595024e863ad44d92e75cb, type: 3}
+    playerPrefab: {fileID: 1602413524584437083, guid: a3bc5a13c281d324fa7b9dfd279f9681,
+      type: 3}
+  - name: Skin_03
+    displayName:
+      m_TableReference:
+        m_TableCollectionName: GUID:3cf81d34021ff0847b0419ad5b36d64f
+      m_TableEntryReference:
+        m_KeyId: 273008566272
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    skinPrice: 500
+    skinProfile: {fileID: 21300000, guid: 9d4872412e8f07a41b7235d6f0d05ef1, type: 3}
+    playerPrefab: {fileID: 1602413524584437083, guid: 69f1b7e1faea8294c9283f5f28a04e80,
+      type: 3}
+  upgradeCustomers:
+  - name: 'Level : 0'
+    Level: 0
+    MaxHealthTime: 0
+    MapUpgradePrefab: {fileID: 0}
+    CostUpgrade: 0
+  - name: 'Level : 1'
+    Level: 1
+    MaxHealthTime: 10
+    MapUpgradePrefab: {fileID: 0}
+    CostUpgrade: 50
+  - name: 'Level : 2'
+    Level: 2
+    MaxHealthTime: 20
+    MapUpgradePrefab: {fileID: 0}
+    CostUpgrade: 100
+  - name: 'Level : 3'
+    Level: 3
+    MaxHealthTime: 25
+    MapUpgradePrefab: {fileID: 0}
+    CostUpgrade: 200
+  - name: 'Level : 4'
+    Level: 4
+    MaxHealthTime: 30
+    MapUpgradePrefab: {fileID: 0}
+    CostUpgrade: 350
+  references:
+    version: 2
+    RefIds: []

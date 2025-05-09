@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b3fdba171888ef4793a57225bc7d07f, type: 3}
+  m_Name: ItemList_State_1_Day_4
+  m_EditorClassIdentifier: 
+  FoodItem:
+  - {fileID: 11400000, guid: 34d3e966ea4a26d40a895bf50e319e65, type: 2}
+  - {fileID: 11400000, guid: 993d548dfd65f514bb6e2b77cab12155, type: 2}
+  - {fileID: 11400000, guid: a27265a3b1852b64abde647a664b86f3, type: 2}
+  - {fileID: 11400000, guid: dee11f8de28b65844b9623dc7e5b8364, type: 2}
+  OrderItem:
+  - {fileID: 11400000, guid: 91f5d637bbc1a73459bb66da9667d890, type: 2}
+  - {fileID: 11400000, guid: 35ead2b7bfa7337479140d5b2fdba183, type: 2}
+  - {fileID: 11400000, guid: 605651d964e7cc3488a13d39d3dd945c, type: 2}
+  - {fileID: 11400000, guid: 4ab83367ff14f0c4f9b704b7b6c36c94, type: 2}
+  IngredientsItem:
+  - {fileID: 11400000, guid: d6d95c3c8d0f47841b43abbab2dfd1d7, type: 2}
+  - {fileID: 11400000, guid: 338d8083522441f45882340c019b3003, type: 2}
+  - {fileID: 11400000, guid: 619088fdadff3a24f9e5cd74e56b49cf, type: 2}
+  - {fileID: 11400000, guid: 76d61bb3d20c357478a4ab9bb28e369c, type: 2}
+  - {fileID: 11400000, guid: 71204263b7d1fa4478c6cfb1432657ef, type: 2}
+  - {fileID: 11400000, guid: c183f43c7065428419d45264c019d56f, type: 2}
+  trashItem: {fileID: 11400000, guid: 0db6882cc5676a74f8450e4ebda3b70e, type: 2}

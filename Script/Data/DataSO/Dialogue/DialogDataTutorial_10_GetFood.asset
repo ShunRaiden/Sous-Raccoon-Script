@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71cdf25eda966b140930cfc663164696, type: 3}
+  m_Name: DialogDataTutorial_10_GetFood
+  m_EditorClassIdentifier: 
+  data:
+  - "\u0E40\u0E2D\u0E49\u0E32! \u0E2D\u0E32\u0E2B\u0E32\u0E23\u0E40\u0E2A\u0E23\u0E47\u0E08\u0E41\u0E25\u0E49\u0E27
+    \u0E23\u0E35\u0E1A\u0E40\u0E2D\u0E32\u0E44\u0E1B\u0E40\u0E2A\u0E34\u0E23\u0E4C\u0E1F\u0E01\u0E48\u0E2D\u0E19\u0E21\u0E31\u0E19\u0E08\u0E30\u0E40\u0E22\u0E47\u0E19\u0E0A\u0E37\u0E14!"
+  dialogSentences:
+  - m_TableReference:
+      m_TableCollectionName: GUID:fce4493c4ea247946a4532279e7247b3
+    m_TableEntryReference:
+      m_KeyId: 1672672976896
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  switchChat: 0
+  speakerName: "\u0E40\u0E0A\u0E1F"
+  speakerNameLocalized:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  playerName: 
+  speakerIcon: {fileID: 21300000, guid: e9a83ac2579733d49a864d3638bf0d7c, type: 3}
+  cutScene: {fileID: 0}
+  haveCutScene: 0
+  cutSceneDialogIndex: 0
+  references:
+    version: 2
+    RefIds: []

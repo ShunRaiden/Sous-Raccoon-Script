@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 094ad8e2afa3049468a7cea21b17d003, type: 3}
+  m_Name: Item_Customer_Trash
+  m_EditorClassIdentifier: 
+  itemName: CustomerTrash
+  itemType: 3
+  food: {fileID: 0}
+  ingredient: {fileID: 0}
+  order: {fileID: 0}
+  trash: {fileID: 4258223819533964281, guid: d77c7efae8284c84aabe29c45193f428, type: 3}
+  itemPref: {fileID: 0}
+  trashPref: {fileID: 4814494143648395274, guid: 004c37c68cfacd04782a211811f55cc7,
+    type: 3}

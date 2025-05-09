@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bad94e885e6e9df4d8d2122c981fe678, type: 3}
+  m_Name: AllItemData_Stage_2
+  m_EditorClassIdentifier: 
+  itemListInStates:
+  - {fileID: 11400000, guid: 05b1142065787b54b8265897dfb6a73b, type: 2}
+  - {fileID: 11400000, guid: a1cfadeacb7bca245a122442551d7f01, type: 2}
+  - {fileID: 11400000, guid: 410336c429f20af46bc4a1bd22ba35a4, type: 2}
+  - {fileID: 11400000, guid: 0905517c8f846e9459f4b18ba54f5768, type: 2}
+  - {fileID: 11400000, guid: 5ee051404c8390249a778184af97d8ab, type: 2}
+  - {fileID: 11400000, guid: 6333c65c10ce85e4394b77f2d1a2c581, type: 2}
+  - {fileID: 11400000, guid: 7f3e1174a2eec484e835efb47ad73413, type: 2}
+  nPCSpawnSets:
+  - {fileID: 11400000, guid: 9813cd4e2bddedb4389a6c894bfbcec3, type: 2}
+  - {fileID: 11400000, guid: 424b587092a85ee4595e39c5b78aa1ee, type: 2}
+  - {fileID: 11400000, guid: a0fec6d01c5d5244aa3bf620a6bacbec, type: 2}
+  - {fileID: 11400000, guid: c136f1af041040a478c3761b485589ab, type: 2}
+  - {fileID: 11400000, guid: 64e5b8ae09ed0fb4f959a27a16de109b, type: 2}
+  - {fileID: 11400000, guid: e36c4287cdb6f744695e27c30ee00dc3, type: 2}
+  - {fileID: 11400000, guid: 6579187b9d23140439f7b78e8b69a8bd, type: 2}
+  monsterStatDataBases:
+  - {fileID: 11400000, guid: 7ba167df038965341a8a8c709fa2eb9f, type: 2}
+  - {fileID: 11400000, guid: 24a75e97ca362de45b30f00ba21b2c87, type: 2}
+  - {fileID: 11400000, guid: f21604e699f85d841895eeb674b63e3b, type: 2}
+  - {fileID: 11400000, guid: f32d38d2c5051ca4f9b2b3e3d552c5e5, type: 2}
+  - {fileID: 11400000, guid: 2636c762372cdf94f8799e722e1b7536, type: 2}
+  - {fileID: 11400000, guid: 090af7cd562e8f448ac79f770253bcb0, type: 2}
+  - {fileID: 11400000, guid: f6b4b2774f6ed724a8fe16351a524831, type: 2}

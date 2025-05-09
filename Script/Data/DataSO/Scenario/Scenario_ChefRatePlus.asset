@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63aa3e0196ad4dd46bcd6ee417b6090f, type: 3}
+  m_Name: Scenario_ChefRatePlus
+  m_EditorClassIdentifier: 
+  nameScenario: ChefRatePlus
+  nameScenarioLocalized:
+    m_TableReference:
+      m_TableCollectionName: GUID:291f282669682af4cbb83aa3362aeaa5
+    m_TableEntryReference:
+      m_KeyId: 22547233251328
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  displayName: Chef Have a Good Mood
+  discription: "Your chef is in a great mood today, \nincreasing their anger tolerance."
+  discriptionLocalized:
+    m_TableReference:
+      m_TableCollectionName: GUID:291f282669682af4cbb83aa3362aeaa5
+    m_TableEntryReference:
+      m_KeyId: 1728104898560
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  icon: {fileID: 21300000, guid: a6cbe374e1db786409a5c9b1d4fe47cd, type: 3}
+  statIcon: {fileID: 21300000, guid: 4e12d7fae9b4fc6449154ea18bf6b64d, type: 3}
+  headIcon: {fileID: 21300000, guid: 01b45eaaf46f1e84f96009d8acc59d91, type: 3}
+  statValue: ++
+  intValue: 01000000
+  floatValue: []
+  type: 0
+  references:
+    version: 2
+    RefIds: []

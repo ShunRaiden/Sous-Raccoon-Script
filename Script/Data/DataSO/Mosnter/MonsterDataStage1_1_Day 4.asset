@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96cc1629f88b3e04389d239e95c4e811, type: 3}
+  m_Name: MonsterDataStage1_1_Day 4
+  m_EditorClassIdentifier: 
+  monsterBaseStat:
+  - name: MonsterBasic
+    MaxHealth: 3
+    DamageToCustomer: 5
+    DamageToPlayer: 1
+  - name: MonsterAttacker
+    MaxHealth: 5
+    DamageToCustomer: 0
+    DamageToPlayer: 1
+  - name: MonsterHiding
+    MaxHealth: 2
+    DamageToCustomer: 3
+    DamageToPlayer: 1
+  - name: MonsterGiver
+    MaxHealth: 1
+    DamageToCustomer: 6
+    DamageToPlayer: 1
+  - name: MinionBasic
+    MaxHealth: 1
+    DamageToCustomer: 8
+    DamageToPlayer: 1
+  - name: MinionBomb
+    MaxHealth: 1
+    DamageToCustomer: 5
+    DamageToPlayer: 5

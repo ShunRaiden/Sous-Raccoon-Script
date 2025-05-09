@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bc137f3959f37547b643e1f0112cb77, type: 3}
+  m_Name: SceneListData
+  m_EditorClassIdentifier: 
+  stageLists:
+  - sceneNameList:
+    - Lobby
+  - sceneNameList:
+    - Stage1_1
+    - Stage1_2
+    - Stage1_3
+    - Stage1_4
+  - sceneNameList:
+    - Stage2_1
+    - Stage2_2
+    - Stage2_3
+    - Stage2_4

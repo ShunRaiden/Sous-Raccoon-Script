@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adb42f5e63102884f9fe03d236c20293, type: 3}
+  m_Name: order_food_soup_1
+  m_EditorClassIdentifier: 
+  FoodType: {fileID: 11400000, guid: 2013330f26365c040a8e82e0efec3bd8, type: 2}
+  OrderPref: {fileID: 6027054632948157324, guid: 52b8f8177a50a314899ae83a117e9cef,
+    type: 3}
